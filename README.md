@@ -9,7 +9,7 @@
 			<img src="https://raw.githubusercontent.com/pmmp/PocketMine-MP/stable/.github/readme/pocketmine-rgb.gif" loading="eager" />
 		</picture>
 	</a><br>
-	<b>A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP</b>
+	<b>El sitio web oficial del I.E.P (Instituto de Educación Privado) El Buen Pastor de Ancón
+</b>
 
-El sitio web oficial del I.E.P (Instituto de Educación Privado) El Buen Pastor de Ancón
 
