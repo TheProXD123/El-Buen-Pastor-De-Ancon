@@ -3,7 +3,7 @@
 	<a href="https://pmmp.io">
 		<picture>
 			<source srcset="https://github.com/TheProXD123/ORANGE/images/escudo.png" media="(prefers-color-scheme: dark)">
-			<img src="https://github.com/TheProXD123/ORANGE/images/escudo.png" alt="The PocketMine-MP logo" title="PocketMine" loading="eager" />
+			<img src="https://github.com/TheProXD123/ORANGE/images/escudo.png" alt="escudo.png" title="PocketMine" loading="eager" />
 		</picture>
 	</a><br>
 </p>
