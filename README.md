@@ -2,8 +2,8 @@
 <p align="center">
 	<a href="https://pmmp.io">
 		<picture>
-			<source srcset="https://github.com/TheProXD123/ORANGE/images/escudo.png" media="(prefers-color-scheme: dark)">
-			<img src="https://github.com/TheProXD123/ORANGE/images/escudo.png" alt="escudo.png" title="PocketMine" loading="eager" />
+			<source srcset="[https://github.com/TheProXD123/ORANGE/images/escudo.png](https://github.com/TheProXD123/ORANGE/tree/main/images)/escudo.png" media="(prefers-color-scheme: dark)">
+			<img src="[https://github.com/TheProXD123/ORANGE/images/escudo.png](https://github.com/TheProXD123/ORANGE/tree/main/images/escudo.png)" alt="escudo.png" title="PocketMine" loading="eager" />
 		</picture>
 	</a><br>
 </p>
